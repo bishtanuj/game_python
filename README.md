@@ -1,5 +1,5 @@
 # Applications of Python
 
-## Rock, Paper and Scisor Game
+## Rock, Paper and Scissor Game
 
 ## Lottery Application
