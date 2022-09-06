@@ -1,4 +1,5 @@
-# Applications of Python
+# Python Applications
+>It's just the play with python while learning python.
 
 ### 1. Game
 [Rock, Paper and Scissor Game](https://github.com/bishtanuj/python-applications/blob/main/rock_paper_scissor.py)
