@@ -20,5 +20,11 @@ It is a game in which the user have to guess a number as asked and the conputer 
 ▶️[Click Me](/Game/number_guess_game.py) to see the program!
 
 
-### 2. Lottery Application
-[Lottery Application](https://github.com/bishtanuj/python-applications/blob/main/lottery.py)
+## 2. Lotery Application
+_A program written in Python_
+
+### Working of application:
+It takes the lotery number of user and match that with the lottery number that the machine get through randomization. Therefore, it helps in making the conclusion of the game. It's fun right! :smile:
+
+
+▶️[Click Me](/Lottery%2CApplication/lottery.py) to see the program!
