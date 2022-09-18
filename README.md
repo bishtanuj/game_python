@@ -27,4 +27,4 @@ _A program written in Python_
 It takes the lotery number of user and match that with the lottery number that the machine get through randomization. Therefore, it helps in making the conclusion of the game. It's fun right! :smile:
 
 
-▶️[Click Me](/Lottery%2CApplication/lottery.py) to see the program!
+▶️[Click Me](/Lottery%20Application/lottery.py) to see the program!
