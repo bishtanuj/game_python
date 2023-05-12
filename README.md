@@ -1,6 +1,6 @@
 [![Licence](https://img.shields.io/github/license/bishtanuj/python-applications?style=for-the-badge)](./LICENSE) &emsp;
 [![Issues](https://img.shields.io/github/issues/bishtanuj/python-applications?style=for-the-badge)](./ISSUES) &emsp;
-<!-- [![Forks](https://img.shields.io/github/forks/bishtanuj/python-applications?style=for-the-badge)](./FORKS) &emsp; -->
+[![Forks](https://img.shields.io/github/forks/bishtanuj/python-applications?style=for-the-badge)](./FORKS) &emsp;
 
 # Python Applications
 >It's just the play with the python while learning python.I feel this type of programming helps you to learn so many things at one time and helps you to grow much faster.
