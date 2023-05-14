@@ -2,7 +2,9 @@
 [![Issues](https://img.shields.io/github/issues/bishtanuj/python-applications?style=for-the-badge)](./ISSUES) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/python-applications?style=for-the-badge)](./FORKS) &emsp;
 [![Stars](https://img.shields.io/github/stars/bishtanuj/python-applications?style=for-the-badge)](./STARS) &emsp;
-![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
+![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green)
+
+
 # Python Applications
 >It's just the play with the python while learning python.I feel this type of programming helps you to learn so many things at one time and helps you to grow much faster.
 
